@@ -1,1 +1,1 @@
-# Dice-Game
+# Simon-Game
